@@ -1,11 +1,11 @@
 # ATP-Tennis-Performance-Analytics
 
-📊 Objectif du projet
+## 📊 Objectifs du projet
 
 Ce projet vise à analyser les performances des joueurs de tennis du circuit ATP entre 2000 et 2025 à partir d’un dataset Kaggle mis à jour quotidiennement.
 L'objectif : identifier des tendances, comparer les joueurs, et visualiser l’impact des surfaces et classements sur les résultats.
 
-🚀 Résumé du projet
+## 🧠 Approche méthodologique
 
 ✅ Nettoyage & préparation du dataset ATP
 
@@ -16,3 +16,9 @@ L'objectif : identifier des tendances, comparer les joueurs, et visualiser l’i
 ✅ Création d’un dashboard Power BI interactif multi-pages
 
 ✅ Visualisation des performances des joueurs selon la surface et selon les années
+
+## 🛠️ Outils et librairies
+
+- **Power BI Desktop**  
+- **DAX**
+- **Power Query**
